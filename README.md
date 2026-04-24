@@ -1,0 +1,2 @@
+# 2001_GresiaDesvaniDharmawan_3DModeling_WalkCycle
+Tugas 3D Modeling dan Animasi
