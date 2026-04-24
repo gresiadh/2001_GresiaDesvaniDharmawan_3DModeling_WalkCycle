@@ -52,7 +52,7 @@ NIM: 232410102001
 8.	Lalu klik tombol play untuk menjalankan
  <img width="940" height="532" alt="image" src="https://github.com/user-attachments/assets/81735856-b9a0-4f79-8e17-1e7f3cb2c46f" />
 
- Link youtube: https://youtu.be/xCDwNdhSSck 
+ Link youtube presentasi: https://youtu.be/xCDwNdhSSck 
  Link file blender: https://drive.google.com/file/d/1aBJ7-T9Tyg1fcADiJPTE7P43CSFlJKQ7/view?usp=sharing 
 
 
